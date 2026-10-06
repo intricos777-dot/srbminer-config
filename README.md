@@ -50,9 +50,11 @@ The original scripts pointed at a path belonging to a removed user account:
 /home/sin/Projects/srbminer/SRBMiner-MULTI
 ```
 
-That path does not exist on the current host. Set the binary location before use,
-or the scripts will fail with "no such file". `mine-ltc.sh` and `mine-doge.sh`
-call a bare `cpuminer`, which is not installed here either.
+That path does not exist on the current host. The `srbminer` directory does
+not exist either — the SRBMiner-MULTI binary was never present on this
+machine. Set the binary location before use, or the scripts will fail with
+"no such file". `mine-ltc.sh` and `mine-doge.sh` call a bare `cpuminer`,
+which is not installed here either.
 
 ## Not verified
 
