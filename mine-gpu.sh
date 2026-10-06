@@ -2,7 +2,7 @@
 # RVN SOLO mining via SRBMiner - Kawpow (Ravencoin)
 # Using 2miners solo pool
 
-exec /home/sin/Projects/srbminer/SRBMiner-MULTI \
+exec /home/livings/Projects/srbminer/SRBMiner-MULTI \
   --algorithm kawpow \
   --gpu-id 0 \
   --gpu-intensity 26 \
