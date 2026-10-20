@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # srbminer-config
 
 Mining launch scripts, relocated out of `gaming-unified`.

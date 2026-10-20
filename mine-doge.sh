@@ -1,4 +1,5 @@
 #!/bin/bash
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 # DOGE mining - using a known working pool
 
 exec cpuminer --algo=scrypt \

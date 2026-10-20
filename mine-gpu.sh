@@ -1,4 +1,5 @@
 #!/bin/bash
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 # RVN SOLO mining via SRBMiner - Kawpow (Ravencoin)
 # Using 2miners solo pool
 

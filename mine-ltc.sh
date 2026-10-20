@@ -1,4 +1,5 @@
 #!/bin/bash
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 # LTC SOLO mining via Viabtc solo pool (supports wallet as username)
 
 exec cpuminer --algo=scrypt \
