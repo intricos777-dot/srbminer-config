@@ -48,7 +48,7 @@ and was never pushed.
 The original scripts pointed at a path belonging to a removed user account:
 
 ```
-/home/sin/Projects/srbminer/SRBMiner-MULTI
+/home/livings/Projects/srbminer/SRBMiner-MULTI
 ```
 
 That path does not exist on the current host. The `srbminer` directory does
